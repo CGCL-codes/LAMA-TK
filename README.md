@@ -2,7 +2,7 @@
 # LAMA-TK  
   
 This folder contains the LAMA-TK dataset. The dataset is described in this paper **Can Language Models Serve as Temporal Knowledge Bases?**  You can directly download the preprocessed data at:  
-> https://drive.google.com/file/d/1lwcPi-ExuMAtUBmvXY5dL0Lkg6VgiC4f/view?usp=sharing
+> [LAMA-TK dataset](https://drive.google.com/file/d/1lwcPi-ExuMAtUBmvXY5dL0Lkg6VgiC4f/view?usp=sharing)
   
 ## Knowledge Sources
 The knowledge sources of LAMA-TK are from [CronQuestions](https://github.com/apoorvumang/CronKGQA) and [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page). We extracted all facts with both a start date and an end date. We reserved the top 7 most frequent temporally rich relations from our collected temporal knowledge, namely
